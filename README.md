@@ -1,1 +1,1 @@
-# Démonstration GitHub Flow
+# Démonstration du processus GitHub Flow
